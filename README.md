@@ -54,8 +54,8 @@ To run this script, ensure you have installed the required packages (openai and 
 Feel free to modify the prompt or adjust any parameters as needed for your use case.
 
 
+```
 
-
-
+##picture
 <img width="942" alt="image" src="https://github.com/encodegroup1/week1/assets/93111418/2e2a96c3-b280-421f-b9d6-21afaca3e8cb">
 
